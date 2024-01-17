@@ -7,7 +7,7 @@
 }
 
 body{
-    background: url("../assets/background.jpg") no-repeat;
+    background: url("../assets/joshua-bartell-6vvIBTvL90A-unsplash.jpg") no-repeat;
     min-height: 100vh;
     background-size: cover;
     background-position: center;
@@ -66,20 +66,24 @@ header{
 
 .content{
   position: absolute;
-  top: 400px;
+  top: 500px;
   left: 50%;
   transform: translate(-50%, -50%);    
   color: azure;
   text-align: center;
+  font-weight: bolder;
+  font-size: 20px;
 }
 
 .content2{
 
   position: absolute;
-  top: 400px;
+  top: 500px;
   left: 50%;
   transform: translate(-50%, -50%);    
   color: azure;
   text-align: left;
+  font-weight: bolder;
+  font-size: 20px;
 
 }
