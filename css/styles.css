@@ -52,12 +52,12 @@ header{
 
 .title{
   font-size: 18px;
-  font-weight:500
+  font-weight:bolder
 }
 
 .welcome{
   position: absolute;
-  top: 40%;
+  top: 500px;
   left: 50%;
   transform: translate(-50%, -50%);    
   color: azure;
@@ -76,7 +76,7 @@ header{
 .content2{
 
   position: absolute;
-  top: 500px;
+  top: 400px;
   left: 50%;
   transform: translate(-50%, -50%);    
   color: azure;
