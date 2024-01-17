@@ -50,6 +50,11 @@ header{
     width: 100%;
 }
 
+.title{
+  font-size: 18px;
+  font-weight:500
+}
+
 .welcome{
   position: absolute;
   top: 40%;
