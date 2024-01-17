@@ -1,0 +1,3 @@
+# portfolio website
+
+This is my portfolio website! Written using HTML and CSS. Javascript coming soon...
