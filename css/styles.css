@@ -7,7 +7,7 @@
 }
 
 body{
-    background: url("../assets/joshua-bartell-6vvIBTvL90A-unsplash.jpg") no-repeat;
+    background: url("../assets/vinoth-ragunathan-cvQ6wD3bPYE-unsplash.jpg") no-repeat;
     min-height: 100vh;
     background-size: cover;
     background-position: center;
@@ -75,7 +75,7 @@ header{
   font-size: 20px;
 }
 
-.content2{
+.content-about{
 
   position: absolute;
   top: 500px;
